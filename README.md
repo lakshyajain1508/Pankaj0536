@@ -17,7 +17,6 @@
 - 🔥 I’m deeply passionate about **DSA**, **Web Dev**, and **problem-solving**  
 - 🛠️ Currently working on:
   - 🔗 Improving my **DSA** skills using C
-  - 🌐 Learning **Full Stack Web Development**
   - 📚 Exploring open-source projects
 - 💌 Reach me at: **pankajrana2754@gmail.com**
 
