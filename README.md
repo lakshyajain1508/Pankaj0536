@@ -1,8 +1,4 @@
-![Welcome to the official GitHub profile of @pankajrana](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
-### Elsewhere on the internet
-
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/pankajrana0536)
 
 <h1 align="center">Hey there! 👋 I'm Pankaj</h1>
 <h3 align="center">🚀 Passionate Computer Engineering Student | 💡 Tech Explorer | 🎯 Future Innovator</h3>
