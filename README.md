@@ -65,7 +65,8 @@ Badges
 ### 🗂️ Currently Learning
 
 - 🔥 Advanced **DSA** concepts & Leetcode problems  
-- 🧠 **HTML nad basic of WEBDEV** & dynamic web development 
+- 🧠 **HTML and basic of WEBDEV** & dynamic web development
+- 🐍 learning **Python**
 
 ---
 
