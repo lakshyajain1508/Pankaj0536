@@ -40,12 +40,25 @@
 
 ---
 
-### 📈 GitHub Stats
+<h1>
+<a href="https://github.com/Pankaj0536">
+<img src="https://github.com/Pankaj0536/Pankaj0536/blob/main/gif/stats.gif" width="45">
+</a> 
+Badges
+</h1>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankaj0536&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj0536&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  
+#### My GitHub Stats
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pankaj0536&theme=dark&hide_border=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj0536&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="TopLanguages" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pankaj0536&theme=dark&hide_border=true&include_all_commits=false&count_private=true&alt=%22Pankaj0536%27s%20GitHub%20stats" />
+<br/><br/>
+
+</div>
 
 ---
 
