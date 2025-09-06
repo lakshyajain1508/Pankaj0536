@@ -41,6 +41,17 @@
 
 
 ---
+
+<h1>
+🎗️Contributions
+</h1>
+<div align="center">
+  
+![snake gif](https://github.com/lakshyajain1508/Pankaj0536/blob/output/github-snake.svg)
+  
+</div>
+
+
 <h1>
 <a href="https://github.com/Pankaj0536">
 <img src="https://github.com/Pankaj0536/Pankaj0536/blob/main/gif/stats.gif" width="45">
@@ -87,3 +98,5 @@ Badges
 ---
 
 _<b>Thank you for visiting! 🚀 Let’s build something awesome together!_
+
+
