@@ -42,7 +42,7 @@
 
 <h1>
 <a href="https://github.com/Pankaj0536">
-<img src="https://github.com/Pankaj0536/C-PROGRAMMING-CODES/blob/main/gif/stats.gif" width="45">
+<img src="https://github.com/Pankaj0536/Pankaj0536/blob/main/gif/stats.gif" width="45">
 </a> 
 Badges
 </h1>
